@@ -1,0 +1,3 @@
+class collage < ApplicationRecord
+	
+end
